@@ -9,7 +9,6 @@ You can contribute good quality code for basic problems meant for beginners in p
 * Don't repeat code that already exists.
 * Write code on your own. Do not copy.
 * Well documented code is appreciated
-* Please follow contribution guidelines.
 * Invalid PRs will be labelled "invalid"/"spam"
 
 Happy Coding!
