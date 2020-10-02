@@ -1,6 +1,6 @@
 # Hacktober 2020
 
-You can contribute any good quality code you like.
+You can contribute good quality code for basic problems meant for beginners in programming
 ----------------------------
 
->> Happy Coding!
+> Happy Coding!
