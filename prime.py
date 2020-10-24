@@ -10,3 +10,11 @@ if isPrime(11):
     print ("true") 
 else: 
     print ("false") 
+fun getMoneySpent(keyboards: Array<Int>, drives: Array<Int>, b: Int): Int {
+    var countItem = -1
+    for(k in keyboards.indices){
+
+        for(d in drives.indices){
+            val total = keyboards[k] + drives[d]
+            if(total <= b && countItem < total){
+                countItem = total
